@@ -1,2 +1,0 @@
-# thatguytho.github.io
-website
