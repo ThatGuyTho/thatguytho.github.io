@@ -239,8 +239,8 @@ float : right;
 text-align : right;
 }
 #modules .only {
-color : #e5e5e5;
-font : bold 0.4em "Tahoma", verdana, Arial;
+color : #000000;
+font : bold 0.57em "Tahoma", verdana, Arial;
 }
 #modules .text {
 width : 100%;
